@@ -7,6 +7,7 @@ hücresinde çözebilirsiniz.
 Bölüm 1: Veri Tipleri
 1. Kullanıcıdan adını, yaşını ve boyunu (float) input() ile alınız. Bu bilgileri uygun veri
 tiplerinde değişkenlerde saklayınız ve ekrana anlamlı bir şekilde yazdırınız.
+
 2. Bir öğrencinin notlarını (Matematik, Fizik, Kimya) int tipinde değişkenlere atayın.
 Ortalamasını float tipinde hesaplayıp ekrana yazdırınız.
 3. Bir string değişkeni tanımlayın. Bu stringin ilk ve son karakterini, uzunluğunu ve ters
